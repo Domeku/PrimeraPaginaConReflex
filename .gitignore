@@ -1,0 +1,25 @@
+# Archivos de Reflex
+.web/
+.reflex/
+
+# Base de datos local
+*.db
+*.db-shm
+*.db-wal
+
+# Entorno virtual de Poetry
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
